@@ -1,0 +1,12 @@
+name: electionfunding
+title: electionfunding
+username:
+account: karnadesai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 344497
+bundleId: 1379892
+url: https://karnadesai.shinyapps.io/electionfunding/
+when: 1526613804.58944
+asMultiple: FALSE
+asStatic: FALSE
